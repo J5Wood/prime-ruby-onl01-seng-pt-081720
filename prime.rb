@@ -1,5 +1,3 @@
-require 'pry'
-
 def prime?(int)
   if (-1..1).include?(int)
     false
